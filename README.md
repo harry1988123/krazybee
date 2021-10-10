@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+![Screenshots](https://github.com/harry1988123/krazybee/blob/master/1.PNG)
+![Screenshots](https://github.com/harry1988123/krazybee/blob/master/2.PNG)
+![Screenshots](https://github.com/harry1988123/krazybee/blob/master/3.PNG)
+
+[![Watch the video](https://github.com/harry1988123/krazybee/blob/master/1.PNG)](https://github.com/harry1988123/krazybee/blob/master/KrazbeeTaskVideo.webm)
+[![Watch the video](https://github.com/harry1988123/krazybee/blob/master/1.PNG)](https://github.com/harry1988123/krazybee/blob/master/KrazbeeTaskVideo2.webm)
 ## Available Scripts
 
 In the project directory, you can run:
